@@ -1,3 +1,3 @@
-AI Training 
-Name: Ekta Mishra 
-ROll NO: 202510101110014
+# AI Training 
+*Name*: Ekta Mishra 
+*ROll NO*: 202510101110014
