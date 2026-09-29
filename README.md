@@ -1,2 +1,3 @@
-# student AI Project
-This is my first AI project created as a practical project.
+AI Training 
+Name: Ekta Mishra 
+ROll NO: 202510101110014
